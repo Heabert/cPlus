@@ -1,0 +1,60 @@
+﻿  project1.1.cpp
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(33): warning C4129: 'C': unrecognized character escape sequence
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(107): error C2065: 'can': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(107): error C2065: 'sweentener': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(109): error C2061: syntax error: identifier 'cout'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(133): error C2065: 'due': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(185): error C2059: syntax error: '}'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(214): error C2143: syntax error: missing ';' before '{'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(336): error C2059: syntax error: ';'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(337): error C2059: syntax error: ';'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(340): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(340): error C2365: 'system': redefinition; previous definition was 'function'
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1218): note: see declaration of 'system'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(341): error C2059: syntax error: 'return'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(342): error C2059: syntax error: '}'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(342): error C2143: syntax error: missing ';' before '}'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(345): error C2143: syntax error: missing ';' before '{'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(345): error C2447: '{': missing function header (old-style formal list?)
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(400): error C3861: 'squared': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(401): error C3861: 'squared': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(404): error C2146: syntax error: missing ';' before identifier 'endl'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(404): warning C4551: function call missing argument list
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(405): error C3861: 'squared': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(406): error C3861: 'squared': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(409): error C2061: syntax error: identifier 'cout'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(433): error C2065: 'annulIn': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(437): error C2065: 'annulIn': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(442): error C2065: 'blance': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(444): error C2065: 'blance': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(447): error C2065: 'anualIn': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(447): error C2065: 'b': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(447): error C2059: syntax error: 'constant'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(452): error C2061: syntax error: identifier 'system'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(477): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(479): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(480): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(481): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(489): error C3861: 'QUESTIONXXX': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(512): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(516): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(518): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(520): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(522): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(524): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(526): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(528): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(530): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(537): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(539): error C3861: 'setprecision': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(547): error C3861: 'QUESTIONXXX': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(569): error C2065: 'quarters': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(603): error C3861: 'dayofWeek': identifier not found
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(622): error C2601: 'dayofWeek': local function definitions are illegal
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(629): error C2065: 'day_Week': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(630): error C2065: 'day_Week': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(631): error C2065: 'day_Week': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(632): error C2065: 'day_Week': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(633): error C2065: 'day_Week': undeclared identifier
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(643): error C2059: syntax error: '}'
+c:\users\heabs\source\repos\project1.1\project1.1\project1.1.cpp(643): error C2143: syntax error: missing ';' before '}'
